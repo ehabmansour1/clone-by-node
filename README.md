@@ -1,1 +1,3 @@
-# clone-by-node
+npm init -y
+npm install puppeteer fs
+node index.js
